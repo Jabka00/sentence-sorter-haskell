@@ -1,0 +1,8 @@
+*.hi
+*.o
+sentence-sorter
+*.exe
+dist-newstyle
+.cabal-sandbox
+cabal.sandbox.config
+

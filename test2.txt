@@ -1,0 +1,1 @@
+Short. Very short. This is longer. This sentence has more words in it. Programming in Haskell requires understanding functional concepts. Learning monads helps you understand how to handle side effects properly. The community provides excellent resources and libraries for building real-world applications.

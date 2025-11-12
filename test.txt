@@ -1,0 +1,2 @@
+Haskell is a functional programming language. It is statically typed! Do you like programming? Yes, I do. Functional programming is great.
+
